@@ -3,8 +3,8 @@
 This repository demonstrates a successful local reproduction of the distinctive prompt/response style recently observed in *Zenith*, using only open-access tools and the [Phi-2 model](https://huggingface.co/microsoft/phi-2).
 
 ## ✨ What's Special?
-I hit Zenith in the LM Arena. I modified the GPU-specific code for CPU and made it open.
-スクリーンショット 2025-07-26 233220.png
+I hit Zenith in the LM Arena. I modified the GPU-specific code for CPU and made it open
+![Zenith-style output screenshot]2025-07-26 233220.png
 
 This project replicates the rare dual-format output style:
 
