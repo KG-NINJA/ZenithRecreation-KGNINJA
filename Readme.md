@@ -28,9 +28,7 @@ You need Python 3.10+ and the following packages:
 pip install transformers
 Then run the script:
 
-bash
-コピーする
-編集する
+
 python zenithZcpu.py
 This will load Phi-2 and output BEST/WORST answer comparisons in Zenith-style.
 
