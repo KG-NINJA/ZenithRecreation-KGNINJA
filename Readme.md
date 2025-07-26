@@ -4,7 +4,8 @@ This repository demonstrates a successful local reproduction of the distinctive 
 
 ## ✨ What's Special?
 I hit Zenith in the LM Arena. I modified the GPU-specific code for CPU and made it open
-![LLM arena screenshot](./2025-07-26 233220.png)
+![LLM arena screenshot](./zenith_output.png)
+
 
 This project replicates the rare dual-format output style:
 
