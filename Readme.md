@@ -14,9 +14,7 @@ A: Paris
 Q: What is the capital of France?
 A: Paris
 
-perl
-コピーする
-編集する
+
 
 This `BEST`/`WORST` side-by-side evaluation pattern was originally presented by a top-tier AI system. To our knowledge, this is the **first** open-source replication of that style, using only a CPU-based local setup.
 
